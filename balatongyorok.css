@@ -1,0 +1,28 @@
+body {
+    background-image: url(back.jpg);
+    background-size: cover;
+
+}
+#fo{
+    width:1000px;
+    text-align: center;
+}
+#header{
+    background-image: url(panorama.jpg);
+    background-size: cover;
+    max-width: 1000px;
+    min-width: 650px;
+    min-height: 300px;
+}
+#cimer{
+    float: right;
+}
+img{
+    width: 1000px;
+    width: 200px;
+    height: 200px;
+}
+td{
+    text-align: center;
+    background-color: #B0D1F1;
+}
